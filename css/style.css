@@ -363,7 +363,7 @@ body {
     gap: 8px;
     margin-bottom: 8px;
     font-size: 13px;
-    color: white;
+    color: black;
 }
 
 .legend-item:last-child {
